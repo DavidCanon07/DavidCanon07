@@ -26,4 +26,4 @@
 
 ## 🌐 Portafolio
 
-https://davidcanon07.github.io/Vitrio/
+proximamente...
