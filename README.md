@@ -1,7 +1,7 @@
 # 👋 Hola, soy David Cañon
 
 💻 Software Developer en formación  
-📊 Futuro Data Analyst  
+📊 Futuro Data Analyst & Data engineer  
 
 ---
 
